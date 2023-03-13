@@ -8,10 +8,12 @@ return {
 		["zh-cn"] = "Esc 键取消文本框焦点",
 	},
 	debug_mode = {
-		en = "Debug Mode"
+		en = "Debug Mode",
+		["zh-cn"] = "调试模式",
 	},
 	debug_mode_description = {
-		en = "Enables output of some debug messages that you probably won't find very useful."
+		en = "Enables output of some debug messages that you probably won't find very useful.",
+		["zh-cn"] = "启用一些普通玩家用不到的调试信息输出。",
 	},
 	escape_defocuses_description = {
 		en = "Sets whether pressing escape should defocus the search text box before it closes the current page. This is useful if you want to use another hotkey like for comparing, inspecting, etc. but don't want to have to grab the mouse to click an item to remove focus from the textbox. Subsequent presses of escape will still cause the page to close.",
